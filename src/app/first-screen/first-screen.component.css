@@ -1,0 +1,19 @@
+body {
+	width: 100wh;
+	height: 300vh;
+	color: #fff;
+	background-size: 400% 400%;
+	background-image: url(/assets/img/832153_black-and-white-cat-wallpaper.jpg);	
+}
+
+h1 {
+	font-family: 'Open Sans';
+	font-weight: 1200;
+	text-align: center;
+	position: absolute;
+	top: 45%;
+	right: 0;
+	left: 0;
+	
+}
+
