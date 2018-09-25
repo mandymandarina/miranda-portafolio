@@ -33,6 +33,7 @@ div {
 
 #title {
   font-family: Helvetica, Geneva, sans-serif; /* Any font would work, but SansSerif looks better */
+  margin-top: 1.7em;
 }
 #title:focus {
   outline: none;
