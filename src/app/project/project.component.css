@@ -57,7 +57,6 @@ h1 {
 
 .bg-dark{
 	display: inline-block;
-	height: 35em;	
 }
 #card1{
 	
@@ -68,3 +67,15 @@ h1 {
 	margin: 15%;
 }
 
+a{
+	padding: 3%;
+	background-color: rgb(26, 119, 153);
+	border-radius: 4px;
+	margin: 1px;
+}
+.card-header{
+	text-align: center;
+}
+.card-img-top{
+	height: 25%;
+}
